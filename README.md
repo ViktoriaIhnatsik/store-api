@@ -1,5 +1,4 @@
 # store-api
-:link:  https://store-api-projekt.herokuapp.com/
 
  **PHP kurs**
  >Uppgift:
